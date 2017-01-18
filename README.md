@@ -9,7 +9,7 @@ Documentation and guides
 
 User guide can be found [here](https://github.com/EvgenyNasretdinov/ourtube/blob/master/txt/userguide.md)
 
-And simple description of how the app works [here](https://github.com/EvgenyNasretdinov/ourtube/blob/master/txt/programmerguide.md)
+And simple description of how the app works is [here](https://github.com/EvgenyNasretdinov/ourtube/blob/master/txt/programmerguide.md)
 
 
 
