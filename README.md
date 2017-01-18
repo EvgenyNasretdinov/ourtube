@@ -7,7 +7,7 @@ Web service for watching youtube videos together online.
 Documentation and guides
 ----------------
 
-User guide can be found [here](https://github.com/EvgenyNasretdinov/ourtube)
+User guide can be found [here](https://github.com/EvgenyNasretdinov/ourtube/blob/master/txt/userguide.md)
 
 
 
