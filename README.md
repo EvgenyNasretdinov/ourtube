@@ -35,4 +35,4 @@ you should run:
 
     php artisan serve
 
-also you will need to change your database settings in your .env file, and configure pusher authentication here.
+also you will need to change your database settings in your .env file, and configure pusher authentication.
