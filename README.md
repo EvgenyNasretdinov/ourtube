@@ -25,7 +25,7 @@ Local execution
 If you want to use this app on your local computer,
 you should run:
 
-    git clone 
+    git clone https://github.com/EvgenyNasretdinov/ourtube
 
     cd ourtube
 
