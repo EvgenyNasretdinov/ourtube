@@ -9,7 +9,7 @@ Documentation and guides
 
 User guide can be found [here](https://github.com/EvgenyNasretdinov/ourtube/blob/master/txt/userguide.md)
 
-
+And simple description of how the app works [here](https://github.com/EvgenyNasretdinov/ourtube/blob/master/txt/programmerguide.md)
 
 
 
@@ -34,3 +34,5 @@ you should run:
     php artisan migrate
 
     php artisan serve
+
+also you will need to change your database settings in your .env file, and configure pusher authentication here.
