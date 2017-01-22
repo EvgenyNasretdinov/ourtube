@@ -3,6 +3,8 @@
 
 Web service for watching youtube videos together online.
 
+[Try it yourself!](https://cryptic-ridge-51398.herokuapp.com/)
+
 
 Documentation and guides
 ----------------
